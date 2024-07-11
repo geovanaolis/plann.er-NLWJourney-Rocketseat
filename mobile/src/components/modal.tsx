@@ -8,8 +8,9 @@ import {
   TouchableOpacity,
 } from "react-native"
 import { BlurView } from "expo-blur"
-
 import { colors } from "@/styles/colors"
+
+
 
 type Props = ModalProps & {
   title: string

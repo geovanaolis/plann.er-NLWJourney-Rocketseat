@@ -3,6 +3,8 @@ import { Link2 } from "lucide-react-native"
 import { Text, TouchableOpacity, View } from "react-native"
 import * as Linking from "expo-linking"
 
+
+
 export type TripLinkProps = {
   id: string
   title: string

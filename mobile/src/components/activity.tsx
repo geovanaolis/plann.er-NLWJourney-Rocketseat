@@ -1,8 +1,8 @@
 import { Text, View } from "react-native"
 import { CircleDashed, CircleCheck } from "lucide-react-native"
-
 import { colors } from "@/styles/colors"
 import clsx from "clsx"
+
 
 export type ActivityProps = {
   id: string

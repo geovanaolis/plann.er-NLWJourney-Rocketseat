@@ -11,6 +11,8 @@ LocaleConfig.defaultLocale = "pt-br"
 import { colors } from "@/styles/colors"
 import { fontFamily } from "@/styles/fontFamily"
 
+
+
 export function Calendar({ ...rest }: CalendarProps) {
   return (
     <RNCalendar
